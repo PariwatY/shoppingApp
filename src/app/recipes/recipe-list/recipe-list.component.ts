@@ -10,6 +10,9 @@ export class RecipeListComponent implements OnInit{
   recipes:Recipe[] = [
     new Recipe("Pizza"
       ,"made from thailand"
+      ,"https://www.freepnglogos.com/uploads/pizza-png/derwent-park-pizza-5.png"),
+    new Recipe("Pizza"
+      ,"made from thailand"
       ,"https://www.freepnglogos.com/uploads/pizza-png/derwent-park-pizza-5.png")
   ];
 
